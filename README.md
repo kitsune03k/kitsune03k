@@ -1,4 +1,4 @@
-SSU Japan, develop just for fun.
+Develop just for fun.
 
 ### Tech Stack
 
