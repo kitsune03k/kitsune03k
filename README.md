@@ -1,4 +1,4 @@
-Develop just for fun.
+Just as a hobby
 
 ### Tech Stack
 
