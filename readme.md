@@ -5,7 +5,7 @@
 
 
 ### Skills
-![My Skills](https://skillicons.dev/icons?i=c,python,aws)
+![My Skills](https://skillicons.dev/icons?i=c,python)
 
 ### Tools & Environments
 ![My EnvTools](https://skillicons.dev/icons?i=vim,clion,pycharm,debian)
