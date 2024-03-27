@@ -1,4 +1,4 @@
-**From 24.02.05**
+**24.02.05 ~ 24.03.11**
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thinker99)](https://solved.ac/thinker99)
 
