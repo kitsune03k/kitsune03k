@@ -18,8 +18,7 @@
 ![macos](https://img.shields.io/badge/iMac-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![debian](https://img.shields.io/badge/ThinkPad-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
-![clion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
-![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![clion](https://img.shields.io/badge/CLion-52b2c3?style=for-the-badge&logo=clion&logoColor=white)
 ![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
 ##
