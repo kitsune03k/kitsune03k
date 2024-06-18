@@ -11,6 +11,7 @@
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![oci](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+![azure](https://img.shields.io/badge/MS_Azure-0078D7?style=for-the-badge)
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## Environments & Tools
