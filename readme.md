@@ -10,10 +10,7 @@
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## Environments & Tools
-
-![macos](https://img.shields.io/badge/iMac-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![debian](https://img.shields.io/badge/ThinkPad-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-
 ![clion](https://img.shields.io/badge/CLion-4ba3cc?style=for-the-badge&logo=clion&logoColor=white)
 ![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
