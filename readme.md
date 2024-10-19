@@ -8,12 +8,12 @@
 ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+![cisco](https://img.shields.io/badge/CISCO_iOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![openwrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)
+
 ![oci](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![azure](https://img.shields.io/badge/MS_Azure-0078D7?style=for-the-badge)
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![cisco](https://img.shields.io/badge/CISCO_iOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![openwrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)
 
 ## What I'm Intersted In
 ![esp32](https://img.shields.io/badge/esp32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
