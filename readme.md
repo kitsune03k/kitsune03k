@@ -23,5 +23,6 @@
 
 ![thinkpad](https://img.shields.io/badge/ThinkPad-FF0000?style=for-the-badge&logo=lenovo&logoColor=white)
 ![microserver](https://img.shields.io/badge/MicroServer-01A982?style=for-the-badge&logo=hp&logoColor=white)
+![cisco](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ##
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkitsune03k&count_bg=%23FF0000&title_bg=%23EEEEEE&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
