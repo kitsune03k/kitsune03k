@@ -5,23 +5,23 @@
 
 ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-![oci](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=black)
-![azure](https://img.shields.io/badge/MS_Azure-0078D7?style=for-the-badge)
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+## What I'm Currently Learning
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## What I'm Intersted In
 ![esp32](https://img.shields.io/badge/esp32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
-
 ## Environments & Tools
-![debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![clion](https://img.shields.io/badge/CLion-14beb1?style=for-the-badge&logo=clion&logoColor=white)
 ![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+![debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
-![thinkpad](https://img.shields.io/badge/ThinkPad-FF0000?style=for-the-badge&logo=lenovo&logoColor=white)
-![microserver](https://img.shields.io/badge/ProLiant-01A982?style=for-the-badge&logo=hp&logoColor=white)
-![cisco](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![thinkpad](https://img.shields.io/badge/T_Series-FF0000?style=for-the-badge&logo=lenovo&logoColor=white)
+![microserver](https://img.shields.io/badge/MicroServer-01A982?style=for-the-badge&logo=hp&logoColor=white)
+![cisco](https://img.shields.io/badge/RV_Series-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitsune03k&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
