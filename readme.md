@@ -1,5 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitsune03k&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
 ## What Can I do
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -15,6 +13,7 @@
 ## What I'm Intersted In
 ![esp32](https://img.shields.io/badge/esp32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
+
 ## Environments & Tools
 ![debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![clion](https://img.shields.io/badge/CLion-14beb1?style=for-the-badge&logo=clion&logoColor=white)
@@ -24,4 +23,6 @@
 ![microserver](https://img.shields.io/badge/MicroServer-01A982?style=for-the-badge&logo=hp&logoColor=white)
 ![cisco](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ##
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitsune03k&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkitsune03k&count_bg=%23FF0000&title_bg=%23EEEEEE&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
