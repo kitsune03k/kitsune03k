@@ -20,7 +20,7 @@
 ![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
 ![thinkpad](https://img.shields.io/badge/ThinkPad-FF0000?style=for-the-badge&logo=lenovo&logoColor=white)
-![microserver](https://img.shields.io/badge/MicroServer-01A982?style=for-the-badge&logo=hp&logoColor=white)
+![microserver](https://img.shields.io/badge/ProLiant-01A982?style=for-the-badge&logo=hp&logoColor=white)
 ![cisco](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitsune03k&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
