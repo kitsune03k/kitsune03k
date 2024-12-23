@@ -14,7 +14,7 @@
 ## What I'm Intersted In
 ![esp32](https://img.shields.io/badge/esp32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
-## Environments & Tools
+## Tools & Environments
 ![clion](https://img.shields.io/badge/CLion-14beb1?style=for-the-badge&logo=clion&logoColor=white)
 ![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
