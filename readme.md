@@ -23,5 +23,6 @@
 ![cisco](https://img.shields.io/badge/RV_Series-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitsune03k&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitsune03k&layout=compact)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkitsune03k&count_bg=%23FF0000&title_bg=%23EEEEEE&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
