@@ -8,10 +8,7 @@
 
 ## What I'm Currently Learning
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-## What I'm Intersted In
-![esp32](https://img.shields.io/badge/esp32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ## Tools & Environments
 ![clion](https://img.shields.io/badge/CLion-14beb1?style=for-the-badge&logo=clion&logoColor=white)
 ![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
@@ -19,6 +16,11 @@
 ![thinkpad](https://img.shields.io/badge/T_Series-FF0000?style=for-the-badge&logo=lenovo&logoColor=white)
 ![microserver](https://img.shields.io/badge/MicroServer-01A982?style=for-the-badge&logo=hp&logoColor=white)
 ![cisco](https://img.shields.io/badge/RV_Series-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+## Education & Experience
+- B.S Degree Expected in [Software Engineering, SoongSil Univ](https://sw.ssu.ac.kr/index_origin.php)
+- [Cyber Security Research Center](https://csec.ssu.ac.kr/) Undergraduated Research Student (25.01~)
+
 ##
 ![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=thinker99)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitsune03k&layout=compact)\
