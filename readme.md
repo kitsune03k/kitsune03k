@@ -15,13 +15,11 @@
 - B.S Degree Expected in Software Engineering, SoongSil Univ.
 - [Cyber Security Research Center](https://csec.ssu.ac.kr/) Undergraduated Research Student (25.01~)
 
-### Tools & Environments
-![clion](https://img.shields.io/badge/CLion-14beb1?style=for-the-badge&logo=clion&logoColor=white)
-![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-![debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)\
+### Equipments & Environments
 ![thinkpad](https://img.shields.io/badge/T_Series-FF0000?style=for-the-badge&logo=lenovo&logoColor=white)
 ![microserver](https://img.shields.io/badge/MicroServer-01A982?style=for-the-badge&logo=hp&logoColor=white)
-![cisco](https://img.shields.io/badge/RV_Series-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![cisco](https://img.shields.io/badge/RV_Series-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)\
+![debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 ##
 ![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=thinker99)
