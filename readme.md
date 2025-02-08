@@ -27,4 +27,4 @@
 ##
 [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=thinker99)](https://solved.ac/thinker99)
 
-**JavaScript SUCKS**
+**JAVASCRIPT SUCKS**
