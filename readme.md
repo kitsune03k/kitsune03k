@@ -7,10 +7,6 @@
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### What I'm Currently Learning
-![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
 ### Education & Experience
 - B.S Degree Expected in Software Engineering, SoongSil Univ.
 - [Cyber Security Research Center](https://csec.ssu.ac.kr/) Undergraduated Research Student (25.01~)
